@@ -1,0 +1,13 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  margin: 20px;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+img {
+  border-radius: 20%;
+}
