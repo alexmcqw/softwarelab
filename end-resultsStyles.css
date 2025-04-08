@@ -1,0 +1,35 @@
+img {
+  border-radius: 20%;
+}
+
+main {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding: 30px;
+  margin: 20px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+}
+
+.card {
+  display: flex;
+  border: 1px solid black;
+  padding: 10px 20px;
+  max-width: 80%;
+  margin: 20px;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.flex-container {
+  display: flex;
+  margin: 10px;
+  padding: 10px 20px;
+  flex-wrap: wrap;
+  flex-direction: row;
+  max-width: 90%;
+  max-height: 90%
+}
